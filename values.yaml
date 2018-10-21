@@ -1,7 +1,7 @@
 image:
     repository: "dtandersen/factorio"
     tag: "latest"
-    pullPolicy: ifNotPresent
+    pullPolicy: IfNotPresent
 
 factorio:
     port: 34197
